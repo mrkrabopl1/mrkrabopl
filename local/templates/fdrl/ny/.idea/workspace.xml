@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6adf5881-d010-4bed-95dd-65e019d047ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vqVRqEij0Y9xCryoIAjE72gFaA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\img" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\lables" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\style" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\style" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\fonts\graphicgcb" />
+      <recent name="C:\Users\jhkhk\WebstormProjects\space\lables" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6adf5881-d010-4bed-95dd-65e019d047ff" name="Default Changelist" comment="" />
+      <created>1627289601471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627289601471</updated>
+      <workItem from="1627289619162" duration="44301000" />
+      <workItem from="1627386598092" duration="35371000" />
+      <workItem from="1628066005750" duration="6503000" />
+      <workItem from="1628490817674" duration="801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627301009147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1627301009147" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627300514457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1627300514457" />
+    <state x="406" y="184" key="EditFileWatcherDialog" timestamp="1627290104675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="184" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1627290104675" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627370275589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627370275589" />
+  </component>
+</project>

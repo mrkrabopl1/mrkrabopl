@@ -1,0 +1,47 @@
+
+
+/* Start:/local/templates/fdrl/components/bitrix/menu/anket/style.min.css?1628606576490*/
+ul.left-menu{list-style:none;margin:0;padding:0;margin-bottom:8px;position:relative}ul.left-menu li{padding:10px 16px;background:#f5f5f5 url(/local/templates/fdrl/components/bitrix/menu/anket/images/left_menu_bg.gif) top repeat-x}ul.left-menu li a{font-size:100%;color:#bc262c;font-weight:bold;text-decoration:none}ul.left-menu li a:visited{color:#bc262c}ul.left-menu li a:hover{color:#bc262c}ul.left-menu li a.selected:link,ul.left-menu li a.selected:visited,ul.left-menu li a.selected:active,ul.left-menu li a.selected:hover{color:#fc8d3d}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/voting.form/templates/main_page/style.css?1629052596397*/
+.voting-form-box
+{
+	font-size:100%;
+}
+
+.voting-form-box .active
+{
+	color:green;
+}
+
+.voting-form-box .disable
+{
+	color:red;
+}
+
+.voting-form-box label
+{
+	line-height:20px;
+}
+
+.voting-form-box form
+{
+	margin:0;
+}
+
+.starrequired 
+{
+    color:red;
+}
+.vote-reply-field-captcha-label {
+    margin-bottom:6px;}
+.vote-vote-footer {
+    margin-top:6px;}
+.vote-reply-field-captcha-image {
+    margin:6px 0;}
+
+/* End */
+/* /local/templates/fdrl/components/bitrix/menu/anket/style.min.css?1628606576490 */
+/* /bitrix/components/bitrix/voting.form/templates/main_page/style.css?1629052596397 */

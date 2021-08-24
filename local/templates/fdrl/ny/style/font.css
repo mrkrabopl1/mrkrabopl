@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'GraphikLCG-Regular';
+  src: url('GraphikLCG-Regular.svg#GraphikLCG-Regular') format('svg'),
+       url('GraphikLCG-Regular.ttf') format('truetype'),
+       url('GraphikLCG-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GraphikLCGRegular';
+  src: url('GraphikLCGRegular.eot');
+  src: url('GraphikLCGRegular.eot?#iefix') format('embedded-opentype'),
+       url('GraphikLCGRegular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

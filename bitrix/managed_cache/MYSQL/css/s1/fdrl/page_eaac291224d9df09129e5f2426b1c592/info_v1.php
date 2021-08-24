@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/fdrl/components/bitrix/news.list/header_slyder/style.css" => "1628533423150",]; ?>

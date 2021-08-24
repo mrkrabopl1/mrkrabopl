@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/voting.form/templates/with_description/script.js" => "1629052596334",]; ?>
