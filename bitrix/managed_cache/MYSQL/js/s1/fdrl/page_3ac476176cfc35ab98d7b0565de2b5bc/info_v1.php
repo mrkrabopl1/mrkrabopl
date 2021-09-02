@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/local/templates/fdrl/components/bitrix/voting.form/survey/script.js" => "1629100920334",]; ?>

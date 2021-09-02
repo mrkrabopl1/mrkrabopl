@@ -1,1 +1,0 @@
-<img src="/local/templates/fdrl/ny/lables/hellomove.svg" class="header__hellomove" alt="">

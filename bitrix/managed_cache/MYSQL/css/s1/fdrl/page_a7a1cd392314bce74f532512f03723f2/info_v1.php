@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/local/templates/fdrl/components/bitrix/menu/anket/style.css" => "1628606576490","/local/templates/fdrl/components/bitrix/voting.form/survey/style.css" => "1629100920498",]; ?>

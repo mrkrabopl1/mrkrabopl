@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/local/templates/fdrl/components/bitrix/news.list/programm/style.css" => "1628602223150","/local/templates/fdrl/components/bitrix/menu/middle.menu/style.css" => "1628596281490",]; ?>
